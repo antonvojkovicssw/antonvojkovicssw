@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Induction Training at SSW
 - 🌱 I’m currently learning more about Dynamics 365
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 👯 I’m looking to collaborate on everything related to Power Platform
+- 🤔 I’m looking for help with hard coding stuff
+- 💬 Ask me about anything! I'm an open book and always willing to help
 - 📫 How to reach me: @antonvojkovicssw
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Croatian background but can't speak croatian at all
