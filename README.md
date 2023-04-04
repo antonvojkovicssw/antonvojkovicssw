@@ -1,7 +1,7 @@
 ### Hello reader 👋
 
-- 🔭 I’m currently working on Induction Training at SSW
-- 🌱 I’m currently learning more about Dynamics 365
+- 🔭 I’m currently working at SSW, building software for enterprises
+- 🌱 I’m currently learning studying to get the Power BI Microsoft Certification PL-400
 - 👯 I’m looking to collaborate on everything related to Power Platform
 - 🤔 I’m looking for help with hard coding stuff
 - 💬 Ask me about anything! I'm an open book and always willing to help
